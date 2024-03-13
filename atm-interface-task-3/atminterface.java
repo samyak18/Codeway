@@ -3,7 +3,6 @@ class atminterface
 {  
     public static void main(String args[] )  
     {  
-        //declare and initialize balance, withdraw, and deposit  
         int balance = 100000, withdraw, deposit;  
           
         Scanner sc = new Scanner(System.in);  
